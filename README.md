@@ -24,3 +24,39 @@ Allah says in the Quran:
 The purpose of this project is to help anyone learn and use the learned names for invoking Allah. 
 
 ## Getting Started
+```json
+...
+{
+    "number": "01",
+    "arabic": "الرَّحْمَنُ",
+    "transliteration": "Ar-Rahmaan",
+    "meaning": {
+        "en": "The Beneficent/ All-Compassionate/ Most Gracious/",
+        "de": "der Erbarmer",
+        "fr": "Le Tout-Miséricordieux"
+    }
+}
+...,
+{
+    "number": "99",
+    "arabic": "الصَّبُورُ",
+    "transliteration": "Aṣ-ṢAbūr",
+    "meaning": {
+        "en": "The Timeless, The Patient",
+        "de": "der Geduldige",
+        "fr": "Le Patient"
+    }
+}
+```
+**number:** *number from 01 to 99* <br>
+**arabic:** *Name of Allah in arabic <br>
+**transliteration:** *text from arabic script to latin** <br>
+**meaning:** *Map of (key,value) where key if the language code and the value is the meaning of the arabic name of Allah in that language.**<br>
+
+## Features
+
+## Contribute
+You can fork this project, extend it the missing language and send a PR.
+
+## Author
+MZDN
