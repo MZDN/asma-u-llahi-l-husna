@@ -54,9 +54,14 @@ The purpose of this project is to help anyone learn and use the learned names fo
 **meaning:** *Map of (key,value) where key if the language code and the value is the meaning of the arabic name of Allah in that language.**<br>
 
 ## Features
+- [x] AR
+- [x] EN
+- [x] DE
+- [x] FR
 
 ## Contribute
-You can fork this project, extend it the missing language and send a PR.
+You can fork this project, extend it the missing language and send a PR. Refer to this  - [List of language names ordered by code](https://meta.wikimedia.org/wiki/Template:List_of_language_names_ordered_by_code)
+ to find the language code 
 
 ## Author
 MZDN
