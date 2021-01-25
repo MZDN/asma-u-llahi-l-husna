@@ -184,9 +184,11 @@
             "number": "18",
             "arabic": "الفَتَّاحُ",
             "transliteration": "Al-Fattāḥ",
-            "en": "The Opener/ Opener of the Gates of Profits/ Reliever/ The Victory Giver",
-            "de": "der Öffnende",
-            "fr": "Le Grand Juge: Est Celui Qui seul connait les clés du futur et l'inconnu, de par Sa connaissance et de par Sa sagesse. "
+            "meaning": {
+                "en": "The Opener/ Opener of the Gates of Profits/ Reliever/ The Victory Giver",
+                "de": "der Öffnende",
+                "fr": "Le Grand Juge: Est Celui Qui seul connait les clés du futur et l'inconnu, de par Sa connaissance et de par Sa sagesse. "
+            }
         },
         {
             "number": "19",
