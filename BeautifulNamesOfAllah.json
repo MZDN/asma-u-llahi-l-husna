@@ -187,7 +187,7 @@
             "meaning": {
                 "en": "The Opener/ Opener of the Gates of Profits/ Reliever/ The Victory Giver",
                 "de": "der Öffnende",
-                "fr": "Le Grand Juge: Est Celui Qui seul connait les clés du futur et l'inconnu, de par Sa connaissance et de par Sa sagesse. "
+                "fr": "Le Grand Juge: Est Celui Qui seul connait les clés du futur et l'inconnu, de par Sa connaissance et de par Sa sagesse."
             }
         },
         {
@@ -274,9 +274,11 @@
             "number": "27",
             "arabic": "البَصِيْرُ",
             "transliteration": "Al-BaṣĪr",
-            "en": "The All-Seeing/ All-Seer/ Ever-Clairvoyant/ Clear-Sighted/ Clear-Seeing",
-            "de": "der Sehende",
-            "fr": "Le Clairvoyant: Est Celui à qui rien de ce qui existe ou entre en existence ne peut échapper, sans le moindre usage d’œil, d’instrument ou d’organe."
+            "meaning": {
+                "en": "The All-Seeing/ All-Seer/ Ever-Clairvoyant/ Clear-Sighted/ Clear-Seeing",
+                "de": "der Sehende",
+                "fr": "Le Clairvoyant: Est Celui à qui rien de ce qui existe ou entre en existence ne peut échapper, sans le moindre usage d’œil, d’instrument ou d’organe."
+            }
         },
         {
             "number": "28",
@@ -322,9 +324,11 @@
             "number": "32",
             "arabic": "الحَلِيْمُ",
             "transliteration": "Al-ḤAlīm",
-            "en": "The Forbearing/ Indulgent/ Oft Forbearing/ All-Enduring",
-            "de": "der Nachsichtige, der Mitfühlende",
-            "fr": "Le Très Doux"
+            "meaning": {
+                "en": "The Forbearing/ Indulgent/ Oft Forbearing/ All-Enduring",
+                "de": "der Nachsichtige, der Mitfühlende",
+                "fr": "Le Très Doux"
+            }
         },
         {
             "number": "33",
@@ -350,9 +354,11 @@
             "number": "35",
             "arabic": "الشَّكُورُ",
             "transliteration": "Aš-Šakūr",
-            "en": "The Grateful/ Appreciative/ Multiplier of Rewards",
-            "de": "der Dankbare",
-            "fr": "Le Très-Reconnaissant"
+            "meaning": {
+                "en": "The Grateful/ Appreciative/ Multiplier of Rewards",
+                "de": "der Dankbare",
+                "fr": "Le Très-Reconnaissant"
+            }
         },
         {
             "number": "36",
